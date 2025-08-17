@@ -1,6 +1,6 @@
 # Excel QA Agent
 
-This small project refactors your notebook into a structured package and provides a Streamlit UI to ask questions about the sales and forecast Excel files.
+This small project provides a Streamlit UI to ask questions about the sales and forecast Excel files.
 
 Files added:
 - `agent_app/loader.py` — loads Excel files into pandas DataFrames.
